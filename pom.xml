@@ -35,7 +35,7 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.4.0</muleVersion>
-						<username>rekha-api</username>
+						<username>rekha-kotu</username>
 						<password>Rekha@7013819532</password>
 						<applicationName>App-Mule</applicationName>
 						<environment>Sandbox</environment>
